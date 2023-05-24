@@ -1,0 +1,15 @@
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.csproj.AssemblyReference.cache
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.AssemblyInfoInputs.cache
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.AssemblyInfo.cs
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.csproj.CoreCompileInputs.cache
+F:\Projects\Learning\MediatorPattern\MediatorPattern\bin\Debug\net6.0\MediatorPattern.exe
+F:\Projects\Learning\MediatorPattern\MediatorPattern\bin\Debug\net6.0\MediatorPattern.deps.json
+F:\Projects\Learning\MediatorPattern\MediatorPattern\bin\Debug\net6.0\MediatorPattern.runtimeconfig.json
+F:\Projects\Learning\MediatorPattern\MediatorPattern\bin\Debug\net6.0\MediatorPattern.dll
+F:\Projects\Learning\MediatorPattern\MediatorPattern\bin\Debug\net6.0\MediatorPattern.pdb
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.dll
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\refint\MediatorPattern.dll
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.pdb
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\MediatorPattern.genruntimeconfig.cache
+F:\Projects\Learning\MediatorPattern\MediatorPattern\obj\Debug\net6.0\ref\MediatorPattern.dll
